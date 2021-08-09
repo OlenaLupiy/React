@@ -1,0 +1,12 @@
+.persons{
+    display: flex;
+}
+img{
+    width: 500px;
+}
+h2{
+    font-size: 35px;
+}
+.person{
+    background-color: papayawhip;
+}

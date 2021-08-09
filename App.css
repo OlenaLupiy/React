@@ -1,0 +1,9 @@
+.target{
+  background-color: silver;
+}
+.persons{
+  display: flex;
+}
+.person img{
+  width: 200px;
+}
